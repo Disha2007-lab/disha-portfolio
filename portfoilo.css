@@ -1,0 +1,43 @@
+h1 {
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px black;
+}
+
+.heading{
+    margin-bottom: 50px;
+    border: black;
+    text-align: center;
+   
+.small{
+    background-color: rgb(14, 60, 112);
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+   margin-bottom: 50px;
+    border: black;
+    background-color: rgb(62, 136, 165) ; 
+     
+}
+
+.skills{
+    text-align: center;
+    margin-bottom: 50px;
+    border: black;
+     background-color: rgb(62, 136, 165); 
+}  
+}
+.great{
+    color: aliceblue;
+}
+.navbar{
+    background-color: olivedrab;
+}
+
+body{
+    margin: 20px;
+    background-color:rgb(5, 49, 107) ;
+}
